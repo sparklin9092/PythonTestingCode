@@ -1,2 +1,2 @@
 # PythonTestingCode
-Python Testing Code
+Write Python code to testing some function.
